@@ -1,5 +1,5 @@
 .navlists a:hover{
-    color:rgb(214, 202, 38)!important;
+    color: black !important;
 }
 
 .navbar-nav a{
@@ -19,7 +19,7 @@
 
 .navlists a{
     font-size: 1.7rem;
-    color:white !important;
+    color:purple !important;
     font-weight: 300;
 }
 
